@@ -1,0 +1,11 @@
+body{
+    background: url('');
+    background-blend-mode: overlay;
+    color: rgb(206, 211, 216);
+    opacity: 0.4;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: alpha(opacity=20);
+    text-decoration: wavy;
+    
+}
